@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/ishan-asahara-sellahewa-0b6091299" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://fb.com/ishan.asahara.sellahewa" target="_blank">
+  <a href="[https://fb.com/ishan.asahara.sellahewa](https://www.facebook.com/share/15DvWoH7Qr/)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:ishanas677@gmail.com">
